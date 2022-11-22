@@ -8,4 +8,9 @@
 
 https://learnku.com/articles/15975/npm-accelerate-and-modify-mirror-source-in-china 
 
-3. 
+3. windows 查看电脑电源寿命
+
+```bash
+powercfg /batteryreport
+```
+
